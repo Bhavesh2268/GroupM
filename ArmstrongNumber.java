@@ -4,8 +4,8 @@ public class ArmstrongNumber {
 
 	public static void main(String[] args) {
 		
-		int a = 371;
-		
+		int a = 370;
+		//change
 		int temp = a;
 		
 		int digit1, digit2, digit3;
